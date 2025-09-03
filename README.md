@@ -4,7 +4,7 @@
 # Webdev
 
 be ready to create helper functions that remove redundant code. this should be obvious, but i mean everything, even strings you write.
-using fetch in multiple places is not good practice use your own API service layer.
+using fetch in multiple places is not good practice. use your own API service layer.
 
 when styling a website, you must create some unification. create hard coded space sizes in your code. create specific colors.
 
