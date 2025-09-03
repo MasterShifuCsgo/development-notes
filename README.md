@@ -12,4 +12,6 @@ if you could, create simple tests for your api.
 
 every error should notify the user: "https://react-hot-toast.com/"
 
+constantly look for data that you can combine into one. instead of using 3 useState for 1 component, combine them into 1 for example.
+
 
